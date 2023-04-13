@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "996040483257",
+    "project_id": "wallpaper--perguruan-silat",
+    "storage_bucket": "wallpaper--perguruan-silat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996040483257:android:38810d8d6b4584a7611668",
+        "android_client_info": {
+          "package_name": "com.setiahati.setiahatiteratewallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996040483257-3fu0gtvepfi274bvclonb5tvo8rckch3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf9xOd1CS4NOJsoL3aA1ZHbvkjBWPlnNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996040483257-3fu0gtvepfi274bvclonb5tvo8rckch3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996040483257:android:1748fd480fa9a42b611668",
+        "android_client_info": {
+          "package_name": "com.shwallpaper.setihatiwinonggowallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996040483257-3fu0gtvepfi274bvclonb5tvo8rckch3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf9xOd1CS4NOJsoL3aA1ZHbvkjBWPlnNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996040483257-3fu0gtvepfi274bvclonb5tvo8rckch3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
